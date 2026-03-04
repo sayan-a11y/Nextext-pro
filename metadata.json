@@ -1,0 +1,8 @@
+{
+  "name": "NexText Pro",
+  "description": "A real-time messaging platform with modern mobile UI, stories, and voice/video calls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
